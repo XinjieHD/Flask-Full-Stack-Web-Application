@@ -1,4 +1,4 @@
-# Student Information List (Python Flask, MySQL HTML, CSS, JavaScript, Unit test)
+# Student Information System (Python Flask, MySQL HTML, CSS, JavaScript, Unit test)
 
 This is a full-stack web application built with the Python Flask framework, JavaScript, HTML/CSS, and a MySQL database. It adds a feature allowing users to search records across multiple columns simultaneously.
 
