@@ -1,6 +1,6 @@
 # Student Information List (Python Flask, MySQL HTML, CSS, JavaScript, Unit test)
 
-This is a full-stack web application built with the Python Flask framework, JavaScript, HTML/CSS, and a MySQL database. It adds a feature allowing users to search records across multiple columns simultaneously.
+This is a full-stack web application built with the Python Flask framework, JavaScript, HTML/CSS, and a MySQL database. It includes a complete CRUD system for managing student information, a search feature that allows users to filter records across multiple columns simultaneously, and unit tests to ensure application reliability.
 
 ## Key Features:
 - **MVC Pattern**: The application separates data handling (Model), user interface (View), and control logic (Controller).
