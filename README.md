@@ -1,6 +1,6 @@
-# Student Information List (Python Flask, MySQL HTML5, CSS, JavaScript, Unit test)
+# Student Information List (Python Flask, MySQL HTML, CSS, JavaScript, Unit test)
 
-This project is a Python-based web application built using the Flask framework and follows the MVC architecture. It adds a feature allowing users to search records across multiple columns simultaneously.
+This is a full-stack web application built with the Python Flask framework, JavaScript, HTML/CSS, and a MySQL database. It adds a feature allowing users to search records across multiple columns simultaneously.
 
 ## Key Features:
 - **MVC Pattern**: The application separates data handling (Model), user interface (View), and control logic (Controller).
